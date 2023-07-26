@@ -1,0 +1,180 @@
+embeddings {
+  tensor_name: "default:frame_2_1.jpg"
+  tensor_path: "frame_2_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_13_2.jpg"
+  tensor_path: "frame_13_2.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_14_2.jpg"
+  tensor_path: "frame_14_2.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_13_1.jpg"
+  tensor_path: "frame_13_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_1_0.jpg"
+  tensor_path: "frame_1_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_15_0.jpg"
+  tensor_path: "frame_15_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_20_2.jpg"
+  tensor_path: "frame_20_2.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_804_1.jpg"
+  tensor_path: "frame_804_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_17_0.jpg"
+  tensor_path: "frame_17_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_801_1.jpg"
+  tensor_path: "frame_801_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_14_1.jpg"
+  tensor_path: "frame_14_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_16_1.jpg"
+  tensor_path: "frame_16_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_13_0.jpg"
+  tensor_path: "frame_13_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_19_1.jpg"
+  tensor_path: "frame_19_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_18_2.jpg"
+  tensor_path: "frame_18_2.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_7_1.jpg"
+  tensor_path: "frame_7_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_10_1.jpg"
+  tensor_path: "frame_10_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_2_0.jpg"
+  tensor_path: "frame_2_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_15_1.jpg"
+  tensor_path: "frame_15_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_803_1.jpg"
+  tensor_path: "frame_803_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_9_0.jpg"
+  tensor_path: "frame_9_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_10_0.jpg"
+  tensor_path: "frame_10_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_804_0.jpg"
+  tensor_path: "frame_804_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_805_1.jpg"
+  tensor_path: "frame_805_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_18_1.jpg"
+  tensor_path: "frame_18_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_16_0.jpg"
+  tensor_path: "frame_16_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_14_0.jpg"
+  tensor_path: "frame_14_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_17_1.jpg"
+  tensor_path: "frame_17_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_9_2.jpg"
+  tensor_path: "frame_9_2.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_8_1.jpg"
+  tensor_path: "frame_8_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_805_0.jpg"
+  tensor_path: "frame_805_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_3_1.jpg"
+  tensor_path: "frame_3_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_7_0.jpg"
+  tensor_path: "frame_7_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_9_1.jpg"
+  tensor_path: "frame_9_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_20_1.jpg"
+  tensor_path: "frame_20_1.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_3_0.jpg"
+  tensor_path: "frame_3_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_20_0.jpg"
+  tensor_path: "frame_20_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_801_0.jpg"
+  tensor_path: "frame_801_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_11_0.jpg"
+  tensor_path: "frame_11_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_12_0.jpg"
+  tensor_path: "frame_12_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_803_0.jpg"
+  tensor_path: "frame_803_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_18_0.jpg"
+  tensor_path: "frame_18_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_8_0.jpg"
+  tensor_path: "frame_8_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_19_0.jpg"
+  tensor_path: "frame_19_0.jpg/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:frame_1_1.jpg"
+  tensor_path: "frame_1_1.jpg/default/tensors.tsv"
+}
